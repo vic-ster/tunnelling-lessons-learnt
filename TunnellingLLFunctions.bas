@@ -1,4 +1,5 @@
 Attribute VB_Name = "TunnellingLLFunctions"
+' Hello worldies
 Function getWordApp() As Word.Application 'Dim getWordApp as word.app
     Dim wAppLocal As Word.Application
     On Error Resume Next
